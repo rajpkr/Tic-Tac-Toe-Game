@@ -18,7 +18,7 @@ This is a simple command-line Tic Tac Toe game implemented in Java. The game all
   
 1. *Clone the Repository*
     ```sh
-    git clone https://github.com/rajpkr/tic-tac-toe-game.git
+    git clone https://github.com/rajpkr/Tic-Tac-Toe-Game.git
     ```
 
 2. *Navigate to the Project Directory*
