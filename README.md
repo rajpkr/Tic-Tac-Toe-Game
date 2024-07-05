@@ -45,23 +45,23 @@ This is a simple command-line Tic Tac Toe game implemented in Java. The game all
 ## Example Gameplay
 
 Player X, enter your move (row and column):
--  0 0
--  X - - 
--  - - - 
--  - - - 
+`0 0
+X - - 
+- - - 
+- - - `
 
 Player O, enter your move (row and column): 
--  1 1
--  X - - 
--  - O - 
--  - - - 
+`1 1
+X - - 
+- O - 
+- - - `
 
 Player X, enter your move (row and column): 
--  0 1
--  X X - 
--  - O - 
--  - - - 
--  ...
+`0 1
+X X - 
+- O - 
+- - -
+...`
 
 ## Author
 [Prince Kamal Raj]
