@@ -42,27 +42,6 @@ This is a simple command-line Tic Tac Toe game implemented in Java. The game all
 2. The game will then prompt Player O to enter their move.
 3. The game will continue until there is a winner or the board is full (resulting in a draw).
 
-## Example Gameplay
-
-Player X, enter your move (row and column):
-`0 0
-X - - 
-- - - 
-- - - `
-
-Player O, enter your move (row and column): 
-`1 1
-X - - 
-- O - 
-- - - `
-
-Player X, enter your move (row and column): 
-`0 1
-X X - 
-- O - 
-- - -
-...`
-
 ## Author
 [Prince Kamal Raj]
 
